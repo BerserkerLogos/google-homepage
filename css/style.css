@@ -6,32 +6,3 @@
 body,html {
     height: 100%;
 }
-.nav-section{
-  margin: 5px 5px;
-}
-
-.nav-section > .nav-menu{
-  text-align: center;
-}
-
-.nav-section > ul > li {
-    display: inline-block;
-    margin:10px;
-}
-
-.img-section{
-    text-align: center;
-}
-
-.input-section {
-    padding: 0 auto;
-    text-align: center;
-}
-
-.input-section button {
-    width: 100px;
-    height: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    border: 1px solid black;
-}
